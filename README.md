@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 🌟 Sobre mim:
 🔭 Atuamente trabalho no projeto OngMap.<br>🌱 Estudando sobre Python e React. 🤓<br>😄 Pronouns: Ele/Dele.<br>⚡ Fun fact: The life is not a strawberry. 🍓
 
 
-## 🌐 Socials:
+## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sorake#1193) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NetinhoLellisS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@neto.lellis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/netolellis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sorake14) 
 
 # 💻 Tech Stack:
